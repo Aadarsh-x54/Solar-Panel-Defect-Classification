@@ -1,0 +1,23 @@
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Raw dataset and archive files
+Data/
+Data.zip
+Code.zip
+
+# OS metadata
+.DS_Store
+Thumbs.db

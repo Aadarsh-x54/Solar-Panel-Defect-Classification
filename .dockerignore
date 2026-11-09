@@ -1,0 +1,15 @@
+.venv
+venv
+__pycache__
+*.pyc
+*.pyo
+*.pyd
+.git
+.gitignore
+.ipynb_checkpoints
+Dockerfile
+.dockerignore
+docker-compose.yml
+Data
+Data.zip
+Code.zip
